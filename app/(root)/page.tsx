@@ -2,7 +2,7 @@ import { Button } from "@base-ui/react"
 
 const Home = () => {
   return (
-    <div className = " flex jmin-h-screen home-wrapper">
+    <div className = " flex min-h-screen home-wrapper">
     <Button> Home </Button>
     </div>
   )
